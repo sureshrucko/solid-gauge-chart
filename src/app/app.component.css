@@ -1,0 +1,15 @@
+* {
+  font-family: Lato;
+}
+
+#chartdiv {
+  width: 130px;
+  height: 130px;
+  @include xlg-screen() {
+    width: 110px;
+    height: 110px;
+  }
+}
+/* g[opacity='0.4'] {
+  display: none;
+} */

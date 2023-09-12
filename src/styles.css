@@ -1,0 +1,18 @@
+/* Add application styles & imports to this file! */
+svg g[opacity='0.4'] {
+  display: none;
+}
+/* svg {
+  width: 130px !important;
+  height: 130px !important;
+  background: #203965;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px #00ff08e0;
+  background: transparent
+    linear-gradient(120deg, #192d50 0%, #192d50 49%, #203965 52%, #203965 100%)
+    0% 0% no-repeat padding-box;
+  @media (max-width: 1600px) {
+    width: 110px !important;
+    height: 110px !important;
+  }
+} */
